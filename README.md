@@ -36,10 +36,7 @@ done by executing the following:
 6. Install Eclipse, open it, and create a new workspace for your project wherever you'd like
 7. Select File -> Import -> General -> Existing Projects into Workspace
 8. In "Select root directory", choose Browse -> Go to the `Apollo4StarterCode` directory -> Select Folder -> Finish
-9. Right-click the newly loaded project name ("Apollo4StarterCode") in the top-left window (labeled "Project Explorer"),
-   and select Import -> Run/Debug -> Launch Configurations -> Next -> Browse to the "launchConfigs" directory ->
-   Put a check mark next to the directory -> Finish
-10. Everything should now be configured for you to use the IDE to debug your project.
+9. Everything should now be configured for you to use the IDE to debug your project.
 
 
 ## Project Layout and Directory Structure
